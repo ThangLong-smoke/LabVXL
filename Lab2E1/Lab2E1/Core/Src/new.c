@@ -1,0 +1,9 @@
+#include "new.h"
+
+void initGPIO()
+{
+  HAL_GPIO_WritePin(GPIOB, LED_RED_Pin | GPIO_PIN_5 | GPIO_PIN_6, 1);
+  HAL_GPIO_WritePin(GPIOA, SEG_A_PIN|SEG_B_PIN|SEG_C_PIN|SEG_D_PIN|SEG_E_PIN|SEG_F_PIN|SEG_G_PIN, GPIO_PIN_SET);
+;
+}
+

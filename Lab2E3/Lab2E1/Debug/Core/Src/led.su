@@ -1,0 +1,7 @@
+led.c:17:6:led_on	16	static
+led.c:21:6:led_off	16	static
+led.c:26:10:ClearLed	8	static
+led.c:34:6:display7SEG	16	static
+led.c:114:6:blinkLED	8	static
+led.c:121:6:changeEN	8	static
+led.c:166:6:update7SEG	16	static
