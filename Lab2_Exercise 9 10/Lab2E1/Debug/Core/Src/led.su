@@ -1,0 +1,11 @@
+led.c:11:6:led_on	16	static
+led.c:15:6:led_off	16	static
+led.c:20:10:ClearLed	8	static
+led.c:28:6:display7SEG	16	static
+led.c:108:6:blinkLED	8	static
+led.c:115:6:changeEN	8	static
+led.c:160:6:update7SEG	16	static
+led.c:184:6:updateClockBuffer	4	static
+led.c:209:6:displayLEDMtrix	16	static
+led.c:252:6:updateLEDMatrix	16	static
+led.c:349:6:updateMatrixBuffer	16	static
