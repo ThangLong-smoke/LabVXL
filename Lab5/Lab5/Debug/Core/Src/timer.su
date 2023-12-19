@@ -1,0 +1,6 @@
+timer.c:13:6:setTimer0	16	static
+timer.c:17:6:timer_run0	4	static
+timer.c:29:6:setTimer1	16	static
+timer.c:33:6:timer_run1	4	static
+timer.c:40:15:isTIM2_flag0	4	static
+timer.c:45:15:isTIM2_flag1	4	static
